@@ -42,8 +42,8 @@ for mat in bpy.data.materials:
 
 ![alt text](https://i.imgur.com/hdfciML.png "hello there, nosy")
 
- ## 🎈 Multi-Selection Alpha Changer
-This script lets you change the Alpha Mode for the materials of multiple selected objects in your scene.
+ ## 🎈 Multi-Selection Alpha Blend Mode Changer
+This script lets you change the Blend Mode for the materials of multiple selected objects in your scene.
 
 ### Requirements
 - Blender **3.0** and **above**
