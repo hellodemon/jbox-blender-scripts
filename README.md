@@ -1,5 +1,5 @@
 
-# JBOX'S *~ Quality of Life ~* Blender Scripts!
+# Faust'S *~ Quality of Life ~* Blender Scripts!
 
 Because I *refuse* to make addons, you get **scripts** instead.
 
